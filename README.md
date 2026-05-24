@@ -61,7 +61,7 @@ sudo ./aws/install
 ### Step 1: Prepare the 2048 Game Code:
 Clone the Repo
 ```sh
-git clone https://github.com/yeshwanthlm/CICD-Pipeline-for-the-2048.git
+git clone https://github.com/tirucloud/CICD-Pipeline-for-the-2048.git
 cd CICD-Pipeline-for-the-2048
 ```
 Build the Docker Image:
